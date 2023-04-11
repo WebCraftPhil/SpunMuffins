@@ -15,6 +15,8 @@
 - 📫 You can reach me at vtguy65@gmail.com. I am now checking GitHub daily as well!!
 
 
+[![SpunMuffins's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpunMuffins)](https://github.com/SpunMuffins/github-readme-stats)
+
 <!---
 SpunMuffins/SpunMuffins is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
