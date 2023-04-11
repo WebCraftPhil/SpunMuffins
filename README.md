@@ -9,8 +9,7 @@
   Python, Web Development, JavaScript, Github
 
 
-- 💞️ I’m looking to collaborate on ... 
-  I'm looking to start contributing on anything that I can. I'm very new but I'll try to bite off the right amount 😉
+- 💞️ I’m looking to collaborate and start contributing on anything that I can bring value too. I'm very new but I'll try to bite off the right amount 😉
 
 
 - 📫 You can reach me at vtguy65@gmail.com. I am now checking GitHub daily as well!!
