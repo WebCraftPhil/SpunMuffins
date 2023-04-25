@@ -1,5 +1,9 @@
-- 👋 Hi, I’m @SpunMuffins. My real names Phil I'm 33 years old I live in Vermont and I'm looking to contribute. I'm trying to learn how to code and I'm looking for a good community to push me and I'm going to try to bring some value. my email is vtguy65@gmail.com.
+[![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Your_GitHub_Username&theme=blue-green)
 
+
+[![SpunMuffins's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpunMuffins)](https://github.com/SpunMuffins/github-readme- 
+
+-👋 Hi, I’m @SpunMuffins. My real names Phil I'm 33 years old I live in Vermont and I'm looking to contribute. I'm trying to learn how to code and I'm looking for a good community to push me and I'm going to try to bring some value. my email is vtguy65@
 
 - 👀 I’m interested in Android, Web Development, Bash, Security, Chat-gpt, and so much more!!
 
