@@ -1,7 +1,10 @@
 ![SpunMuffins Stats](https://github-readme-stats.vercel.app/api?username=SpunMuffins&show_icons=true)
 
+<br>
+<br>
+![SpunMuffins Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SpunMuffins&theme=blue-green) 
 
-- 👀 I’m interested in Android, Web Development, Bash, Security, Chat-gpt, and so much more!!
+👀 I’m interested in Android, Web Development, Bash, Security, Chat-gpt, and so much more!!
 
 
 - 🌱 I’m currently learning ...
