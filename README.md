@@ -1,4 +1,4 @@
-![SpunMuffins Stats](https://github-readme-stats.vercel.app/api?SpunMuffins=Your_GitHub_Username&show_icons=true)
+![SpunMuffins Stats](https://github-readme-stats.vercel.app/api?username=SpunMuffins&show_icons=true)
 
 
 - 👀 I’m interested in Android, Web Development, Bash, Security, Chat-gpt, and so much more!!
