@@ -1,5 +1,5 @@
-[![SpunMuffin's](https://github-readme-stats.vercel.app/api/top-langs/?SpunMuffins=Your_GitHub_Username&theme=blue-green)
 
+[![JavaScript](https://giphy.com/gifs/transparent-ejfEZhz0nh2kR0SZzn)
 
 [![SpunMuffins's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpunMuffins)](https://github.com/SpunMuffins/github-readme- 
 vtguy65@gmail.com
