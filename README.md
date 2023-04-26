@@ -1,8 +1,4 @@
-
-[![JavaScript](https://giphy.com/gifs/transparent-ejfEZhz0nh2kR0SZzn)
-
-[![SpunMuffins's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpunMuffins)](https://github.com/SpunMuffins/github-readme- 
-vtguy65@gmail.com
+![SpunMuffins Stats](https://github-readme-stats.vercel.app/api?SpunMuffins=Your_GitHub_Username&show_icons=true)
 
 
 - 👀 I’m interested in Android, Web Development, Bash, Security, Chat-gpt, and so much more!!
