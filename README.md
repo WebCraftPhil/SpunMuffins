@@ -1,17 +1,12 @@
 #Welcome To My Profile!#
 
-'''
-'''
+
+
 <br>
 <br>
-
-'''
-'''
-
-'''
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=SpunMuffins)
-'''
+
 
 
 👀 I’m interested in Android, Web Development, Bash, Security, Chat-gpt, and so much more!!
