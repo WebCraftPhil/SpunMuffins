@@ -1,4 +1,4 @@
-#Welcome To My Profile!#
+H1#.  Welcome To My Profile!   #
 
 
 
@@ -20,7 +20,13 @@
 - 💞️ I’m looking to collaborate and start contributing on anything that I can bring value too. I'm very new but I'll try to bite off the right amount 😉
 
 
-- 📫 You can reach me at . I am now checking GitHub daily as well!!
+- 📫 You can reach me at . I am now checking GitHub daily as 
+
+
+
+![Computer Flashing](https://media0.giphy.com/media/HygonPPJC3oAxrLPrZ/giphy.gif?cid=2154d3d7zj9f2i5fltfxt2n52ic3j4k7cxl0mw63ccp89evf&ep=v1_stickers_search&rid=giphy.gif&ct=s)
+
+
 
 ![SpunMuffin’s Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SpunMuffins&theme=blue-green=150x100)
 
