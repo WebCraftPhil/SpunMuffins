@@ -3,7 +3,6 @@
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=SpunMuffins)
 
-![Follow @vtguy65 on Twitter](https://img.shields.io/twitter/follow/vtguy65?style=social)
 
 ![Follow me on GitHub!](https://img.shields.io/github/followers/SpunMuffins?style=social)
 
@@ -18,6 +17,9 @@ I'm interested in Android, Web Development, Bash, Security, Chat-gpt, and so muc
 - 💬 Ask me about anything, I'm happy to help
 
 ## 📫 Contact Me
+
+![Follow @vtguy65 on Twitter](https://img.shields.io/twitter/follow/vtguy65?style=social)
+
 
 
 
