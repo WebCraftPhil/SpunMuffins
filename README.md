@@ -3,6 +3,14 @@
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=SpunMuffins)
 
+![Follow @vtguy65 on Twitter](https://img.shields.io/twitter/follow/vtguy65?style=social)
+
+![Follow me on GitHub!](https://img.shields.io/github/followers/SpunMuffins?style=social)
+
+
+
+
+
 I'm interested in Android, Web Development, Bash, Security, Chat-gpt, and so much more!!
 
 - 🌱 I’m currently learning Python, Web Development, JavaScript, and Git
@@ -11,8 +19,7 @@ I'm interested in Android, Web Development, Bash, Security, Chat-gpt, and so muc
 
 ## 📫 Contact Me
 
-![Linkedin Badge](https://img.shields.io/badge/-Phil-Greene-blue?style=plastic-square&logo=Linkedin&logoColor=white&link= https://www.linkedin.com/in/phil-greene-736577273)]()
-![Email Badge](https://img.shields.io/badge/-vtguy65@gmail.com-c14438?style=plast-square&logo=Gmail&logoColor=white&link=mailto:spunmuffins@gmail.com)]()
+
 
 ## &#x1f4c8; GitHub Stats
 
