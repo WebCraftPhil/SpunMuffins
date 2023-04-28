@@ -6,14 +6,19 @@
 
 ![Follow me on GitHub!](https://img.shields.io/github/followers/SpunMuffins?style=social)
 
-## Hello, I'm Phil!
- I'm a Python developer with a passion for finance, large language models, and web development. I'm proficient in HTML, CSS, and JavaScript and enjoy building responsive and user-friendly websites.
+## 👋 Welcome to my GitHub profile.
 
-I'm new to this space and I'm eager to find opportunities that will allow me to use my skills and build a successful career. I'm always looking for new challenges and projects that will help me grow as a developer and provide me with the financial stability I need to pursue my passions.
+👨‍💻 I'm a budding programmer interested in Python, web development, and the intersection of finance and technology. I'm exploring different opportunities to grow my skills and knowledge in these areas.
 
-In addition to coding, I'm also passionate about environmental issues and climate change. I believe that technology can play a key role in addressing these challenges, and I'm excited to be part of a community that's working towards a better future.
+🌍 I'm passionate about the environment and want to do my part in addressing climate change. I believe that technology can play a critical role in creating sustainable solutions, and I'm eager to learn more about how I can contribute.
 
-If you're interested in working with me or have any questions, feel free to reach out! I'm always happy to connect with like-minded individuals and explore new opportunities.
+💼 I'm currently looking for entry-level opportunities where I can learn and grow as a programmer. I'm excited to collaborate with like-minded individuals and organizations that are working towards making a positive impact on the world.
+
+📚 When I'm not coding, you'll often find me reading about programming concepts or learning new skills through online courses and tutorials. I believe that continuous learning is key to becoming a successful programmer, and I'm always looking for new resources to help me improve.
+
+📫 If you're interested in connecting or have any tips for a beginner like me, please feel free to reach out. I'm open to advice and feedback from experienced programmers who can help guide me on my journey.
+
+Let's work together towards a brighter, greener future! 🌱🌍
 
 
 
