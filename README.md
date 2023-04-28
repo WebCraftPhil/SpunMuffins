@@ -1,10 +1,13 @@
 
 # Hi there, I'm Phil! 👋
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=SpunMuffins)
+![Profile View Counter](https://komarev.com/ghpvc/?username=SpunMuffins?)
 
 
-![Follow me on GitHub!](https://img.shields.io/github/followers/SpunMuffins?style=social)
+![Follow me on GitHub!](https://img.shields.io/github/followers/SpunMuffins?)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ## 👋 Welcome to my GitHub profile.
 
