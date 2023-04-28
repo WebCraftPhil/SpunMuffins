@@ -1,20 +1,24 @@
 
-# Hi there, I'm SpunMuffins! 👋
+# Hi there, I'm Phil! 👋
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=SpunMuffins)
 
 
 ![Follow me on GitHub!](https://img.shields.io/github/followers/SpunMuffins?style=social)
 
+## Hello, I'm Phil!
+ I'm a Python developer with a passion for finance, large language models, and web development. I'm proficient in HTML, CSS, and JavaScript and enjoy building responsive and user-friendly websites.
+
+I'm new to this space and I'm eager to find opportunities that will allow me to use my skills and build a successful career. I'm always looking for new challenges and projects that will help me grow as a developer and provide me with the financial stability I need to pursue my passions.
+
+In addition to coding, I'm also passionate about environmental issues and climate change. I believe that technology can play a key role in addressing these challenges, and I'm excited to be part of a community that's working towards a better future.
+
+If you're interested in working with me or have any questions, feel free to reach out! I'm always happy to connect with like-minded individuals and explore new opportunities.
 
 
 
 
-I'm interested in Android, Web Development, Bash, Security, Chat-gpt, and so much more!!
 
-- 🌱 I’m currently learning Python, Web Development, JavaScript, and Git
-- 💻 I'm proficient in Linux
-- 💬 Ask me about anything, I'm happy to help
 
 ## 📫 Contact Me
 
