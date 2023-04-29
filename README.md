@@ -1,7 +1,7 @@
 
 # Hi there, I'm Phil! 👋
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=SpunMuffins?)
+![Profile View Counter](https://komarev.com/ghpvc/?username=SpunMuffins)
 
 
 ![Follow me on GitHub!](https://img.shields.io/github/followers/SpunMuffins?)
