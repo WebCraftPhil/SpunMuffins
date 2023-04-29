@@ -3,7 +3,7 @@
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=SpunMuffins)
 ![Follow me on GitHub!](https://img.shields.io/github/followers/SpunMuffins?)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phil-greene-736577273/)
 ![Follow @vtguy65 on Twitter](https://img.shields.io/twitter/follow/vtguy65?style=social)
 
