@@ -23,7 +23,7 @@ Let's work together towards a brighter, greener future! 🌱🌍
 
 Heres a link to my keybase gist.... keybase.md ⬇️⬇️⬇️⬇️⬇️
 
-<script src= "https://gist.github.com/SpunMuffins/1ffe4005ea957a28bca3b4cb115f6604.js">   </script>
+https://gist.github.com/SpunMuffins/1ffe4005ea957a28bca3b4cb115f6604   
 
 
 
