@@ -24,10 +24,13 @@ Let's work together towards a brighter, greener future! 🌱🌍
 
 
 
-
-
-
-
+   
+<a href="https://time.is/United_States" id="time_is_link" rel="nofollow" style="font-size:36px">Time in United States:</a>
+<span id="United_States_z161" style="font-size:36px"></span>
+<script src="//widget.time.is/t.js"></script>
+<script>
+time_is_widget.init({United_States_z161:{}});
+</script>
 
 
 
