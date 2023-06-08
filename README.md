@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phil-greene-736577273/)
 ![Profile View Counter](https://komarev.com/ghpvc/?username=SpunMuffins)
 ![Follow me on GitHub!](https://img.shields.io/github/followers/SpunMuffins?)
-[![wakatime](https://wakatime.com/badge/user/60977d89-ba57-4702-bdf2-021b4668c867.svg)](https://wakatime.com/@60977d89-ba57-4702-bdf2-021b4668c867)
+![wakatime](https://wakatime.com/badge/user/60977d89-ba57-4702-bdf2-021b4668c867.svg) 
 ![Follow @vtguy65 on Twitter](https://img.shields.io/twitter/follow/vtguy65?style=social)
 
 ## 👋 Welcome to my GitHub profile.
