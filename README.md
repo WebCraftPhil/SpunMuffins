@@ -23,8 +23,10 @@
 Let's work together towards a brighter, greener future! 
 
 <a href="https://time.is/Norwich,_Connecticut" id="time_is_link" rel="nofollow" style="font-size:36px;color:Dark blue;background:Light grey">Time in Norwich:</a>
-<span id="Norwich__Connecticut_z161" style="font-size:36px;color:Dark blue;background:Light grey"></span>
-<script src="//widget.time.is/t.js"></script>
+<span id="Norwich__Connecticut_z161" style="font-size:36px;color:Dark blue;background:Light grey">
+</span>
+<script src="//widget.time.is/t.js">
+</script>
 <script>
 time_is_widget.init({Norwich__Connecticut_z161:{time_format:"12hours:minutesAMPM"}});
 </script>
