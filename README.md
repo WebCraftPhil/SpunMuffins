@@ -23,7 +23,7 @@
 Let's work together towards a brighter, greener future! 🌱
 
 
-<a href="https://time.is/Norwich,_Connecticut" id="time_is_link" rel="nofollow" style="font-size:36px">Time in Norwich:</a>
+<a href="https://time.is/Norwich,_Connecticut" id="time_is_link" rel="nofollow" style="Sans Seriff font-size:40px">Time in Norwich:</a>
 <span id="Norwich__Connecticut_z161" style="font-size:36px"></span>
 <script src="//widget.time.is/t.js"></script>
 <script>
