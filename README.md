@@ -20,18 +20,17 @@
 
 📫 If you're interested in connecting or have any tips for a beginner like me, please feel free to reach out. I'm open to advice and feedback from experienced programmers who can help guide me on my journey.
 
-Let's work together towards a brighter, greener future! 🌱🌍
+Let's work together towards a brighter, greener future! 🌱
 
 
-
-
-   
-<a href="https://time.is/United_States" id="time_is_link" rel="nofollow" style="font-size:36px">Time in United States:</a>
-<span id="United_States_z161" style="font-size:36px"></span>
+<a href="https://time.is/Norwich,_Connecticut" id="time_is_link" rel="nofollow" style="font-size:36px">Time in Norwich:</a>
+<span id="Norwich__Connecticut_z161" style="font-size:36px"></span>
 <script src="//widget.time.is/t.js"></script>
 <script>
-time_is_widget.init({United_States_z161:{}});
+time_is_widget.init({Norwich__Connecticut_z161:{}});
 </script>
+
+
 
 
 
