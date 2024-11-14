@@ -6,8 +6,8 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=SpunMuffins)
 ![Follow me on GitHub!](https://img.shields.io/github/followers/SpunMuffins?)
 ![wakatime](https://wakatime.com/badge/user/60977d89-ba57-4702-bdf2-021b4668c867.svg) 
-![Follow @vtguy65 on Twitter](https://img.shields.io/twitter/follow/vtguy65?style=social)
-[![Sponsor](https://img.shields.io/badge/-Sponsor-fafbfc?logo=GitHub-Sponsors&logoColor=ea4aaa)](WebCraftPhil)
+
+
 ![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)
 ![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)
 ![Gitpod](https://img.shields.io/badge/gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white)
@@ -71,7 +71,8 @@
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-
+![Follow @vtguy65 on Twitter](https://img.shields.io/twitter/follow/vtguy65?style=social)
+![Sponsor](https://img.shields.io/badge/-Sponsor-fafbfc?logo=GitHub-Sponsors&logoColor=ea4aaa)](WebCraftPhil)
 
 ## 👋 Welcome to my GitHub profile.
 
@@ -95,13 +96,13 @@ Let's work together towards a brighter, greener future!
 
 ## &#x1f4c8; GitHub Stats
 
-[![](https://visitcount.itsvg.in/api?id=WebCraftPhil&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
-<a href="https://github.com/SpunMuffins/SpunMuffins">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpunMuffins&theme=blue-green" />
+
+<a href="https://github.com/WebCraftPhil/WebCraftPhil">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WebCraftPhil&theme=blue-green" />
 </a>
-<a href="https://github.com/SpunMuffins/SpunMuffins">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SpunMuffins&show_icons=true&line_height=27&count_private=true&theme=blue-green" alt="SpunMuffins' GitHub Stats" />
+<a href="https://github.com/WebCraftPhil/WebCraftPhil">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=WebCraftPhil&show_icons=true&line_height=27&count_private=true&theme=blue-green" alt="WebCraftPhil' GitHub Stats" />
 </a>
 
 
