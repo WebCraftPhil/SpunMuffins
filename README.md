@@ -78,15 +78,17 @@
 
 ##Update
 
-🌟I apologize for not being as active as I was my laptop broke and I lost my job and than 6 weeks later my car broke down. and every way I had to generate income and support myself was gone. I'm currently living in a shell of a house with no running water or electricity and it's making everything very very difficult. Oh and than on top of all that my mom is terminal with cancer she recently started hospice and thinks she's only got a couple weeks left. Atleast I got my car to a mechanic today, I've been calling a local homeless shelter every day to no avail but once my cars fixed I won't be stuck in this town. I can finally reunite with my mom for her final days. my dad died when I was 8 years old and this is one of my deepest and most profound fears. If anyone has the means to show some support I would be eternally grateful. My cash app tag is $MrBurns59. Worse comes to worse I'm waiting on a couple hundred bucks from taxes and I'll use that for a bare minimum laptop. thank you for making me feel welcome and giving my life some meaning. God bless!
+✨Life’s been throwing some curveballs, but tomorrow’s a new day. Staying hopeful and keeping my head up!
 
-👨‍💻 I'm a Noob programmer interested in Python, web development, and the intersection of finance and technology. I'm exploring different opportunities to grow my skills and knowledge in these areas.
+👨‍💻 I'm a Noob programmer interested in Python, web development, and the intersection of finance and technology. I'm exploring different opportunities to grow.
 
 🌍 I'm passionate about the environment and want to do my part in addressing climate change. I believe that technology can play a critical role in creating sustainable solutions, and I'm eager to learn more about how I can contribute.
 
 💼 I'm currently looking for entry-level opportunities where I can learn and grow as a programmer. I'm excited to collaborate with like-minded individuals and organizations that are working towards making a positive impact on the world.
 
-📚 When I'm not coding, you'll often find me reading about programming concepts or learning new skills through online courses and tutorials. I believe that continuous learning is key to becoming a successful programmer, and I'm always looking for new resources to help me improve.
+📚 When I'm not coding, you'll often find me reading about programming concepts or learning new skills through online courses and tutorials. I bel
+
+ learning is key to becoming a successful programmer, and I'm always looking for new resources to help me improve.
 
 📫 If you're interested in connecting or have any tips for a beginner like me, please feel free to reach out. I'm open to advice and feedback from experienced programmers who can help guide me on my journey.
 
