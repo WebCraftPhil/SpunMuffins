@@ -32,6 +32,8 @@ Let's work together towards a brighter, greener future!
 
 ## &#x1f4c8; GitHub Stats
 
+[![](https://visitcount.itsvg.in/api?id=WebCraftPhil&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
+
 <a href="https://github.com/SpunMuffins/SpunMuffins">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpunMuffins&theme=blue-green" />
 </a>
