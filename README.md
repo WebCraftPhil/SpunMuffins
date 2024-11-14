@@ -2,9 +2,9 @@
 # Hi there, I'm Phil! 👋
 
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phil-greene-736577273/)
-![Profile View Counter](https://komarev.com/ghpvc/?username=SpunMuffins)
-![Follow me on GitHub!](https://img.shields.io/github/followers/SpunMuffins?)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phil-greene-736577273/)
+![Profile View Counter](https://komarev.com/ghpvc/?username=WebCraftPhil)
+![Follow me on GitHub!](https://img.shields.io/github/followers/WebCraftPhil?)
 ![wakatime](https://wakatime.com/badge/user/60977d89-ba57-4702-bdf2-021b4668c867.svg) 
 
 
